@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" /> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="styl.css">
+  
+    <title>Document</title>
+
+    
+</head>
+<body>
+         <header>
+            <a href="#" class="logo">boyashop</a>
+            <nav class="navigtion">
+            <a href="menu">menu</a>  
+            <a href="shopnow ">ShopNow</a> 
+            <a href="contact">contact</a>
+           </nav>
+         </header>
+
+         <section class="man">
+<div>
+    <h2>Get moving<br></h2>
+<h2>to get</h2>
+<h2>healthier</h2>
+    <h3>Make movement a part of your daily life</h3>
+    <h3> with mini workouts and easy exercises</h3>
+
+    <a href="man" class="manbott"></a>
+    <div>
+      
+      
+        <a href="socil" class="boton">learn more</a>
+       
+
+    </div>
+    
+</div>
+</section >
+
+<section class="tg">
+
+<h3 class="mouad">About 
+    boyashop</h3>
+    
+    <div class="gh">
+        <p>What's special about your product, service, or company? Use this space to highlight the things that set you apart from your competition, whether it's a special feature, a unique philosophy, or awards and recognition that you have received. Think of this as your elevator pitch to get the reader's attention.</p>
+    </div>
+</section>
+
+
+<section class="cards" id="mk"> 
+
+    <h2 class="title">Key Features</h2>
+
+
+
+
+
+                <div class="row">
+                    <div class="column">
+                      <img src="images/dmn-removebg-preview.png" alt="Snow" style="width:100%">
+                    </div>
+                    <div class="column">
+                      <img src="images/Untitled_design__2_-removebg-preview.png" alt="Forest" style="width:100%">
+                    </div>
+                    <div class="column">
+                      <img src="images/Untitled_design__2_-removebg-preview.png" alt="Mountains" style="width:100%">
+                    </div>
+
+                    <div class="jk">
+                        <p>Build muscles professionally and in a good way with the best trainers.</p>
+                        <p>Write here a key feature of the app or software that is being advertised here.</p>
+                        <p>Write here a key feature of the app or software that is being advertised here.</p>
+                    </div>
+                    </div>
+
+
+
+</section >
+
+<section class="mg">
+
+<h3 class="bb">Workouts 
+    </h3>
+    <h3 class="mouad">and Exercises</h3>
+    
+    <div class="gh">
+        <p>Talk about this product's most important feature or service. Highlighting the most popular one works, too! Talk about this product's most important feature or service. Highlighting the most popular one works, too!</p>
+    </div>
+    <div>
+        <a href="socil" class="boton1">learn more</a>
+    </div>
+   
+</section>
+
+
+<section class="table">
+
+    
+<img src="images/White Navy Modern First Time Home Buyer Tips Carousel Instagram Post.png" class="bang">
+
+
+    <div class="father">
+        <h3 class="mom">Wellness Tips</h3>
+
+<P class="mnb">Talk about this product's most important feature or service. Highlighting the most popular one works, too! Talk about this product's most important feature or service. Highlighting the most popular one works, too!</P>
+<a href="ssss" class="boton2">learn more</a>
+
+    </div>
+
+</section>
+
+              
+<section class="savna">
+<h2 class="Reviews">Reviews</h2>
+
+    <div class="proda">
+<div class="next"> <h2 class="sd">Frankie, Virtual Assistant
+   
+</h2> <p >Testimonials are short quotes from people who love your brand. It's a great way to convince customers to try your services.</p></div>
+
+<div class="next"> <h2 class="sd">Devin, Business Analyst</h2><p >Testimonials are short quotes from people who love your brand. It's a great way to convince customers to try your services.</p></div>
+
+<div class="next"> <h2 class="sd">Brooke, Marketing Specialist</h2><P >Testimonials are short quotes from people who love your brand. It's a great way to convince customers to try your services.</P></div>
+</div>
+</section>
+
+
+<section class="phone">
+    
+   
+
+
+   
+<div class="contac-info">
+
+    <div class="card5">
+            
+       
+        <div class="icons">
+        <i class="fa-solid fa-envelope"></i></div>
+        <p>mouadkadmar6@gmail.com</p>
+
+    </div>
+
+    <div class="card5">
+        <div class="icons">
+        <i class="fa-solid fa-phone"></i></div>
+        <p>0631993384</p>
+
+    </div>
+
+    <div class="card5">
+        <div class="icons">
+        <i class="fa-brands fa-facebook"></i>
+        <i class="fa-brands fa-square-instagram"></i></div>
+                <p>socail</p>
+
+    </div>
+    
+</div>
+
+
+  </section>
+
+
+
+
+         
+    
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+</body>
+</html>
